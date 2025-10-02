@@ -13,8 +13,8 @@
 #include "index.h"
 
 
-const char* ssid = "Wuth_2.4G";
-const char* password = "0896786819";
+const char* ssid = "SSID_WIFI";
+const char* password = "PASSWORD";
 //const char* ssid = "Jeerapa_muay_2.4G";
 //const char* password = "0896917667";
 
@@ -174,3 +174,4 @@ void loop(){
     }
   }
 }
+
