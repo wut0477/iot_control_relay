@@ -15,8 +15,6 @@
 
 const char* ssid = "SSID_WIFI";
 const char* password = "PASSWORD";
-//const char* ssid = "Jeerapa_muay_2.4G";
-//const char* password = "0896917667";
 
 #define DHTPIN 5 //PIN ที่ เชื่อมต่อกับ sensor DHT GPIO5 D1
 #define ledPin1 14 // GPIO14  D5  
